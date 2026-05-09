@@ -12,7 +12,6 @@ sous contraintes de flux et de capacité.
 - [Technologies](#-technologies)
 - [Fonctionnalités](#-fonctionnalités)
 - [Aperçu](#-aperçu)
-- [Installation](#-installation)
 - [Utilisation](#-utilisation)
 - [Exemple de résultat](#-exemple-de-résultat)
 - [Auteur](#-auteur)
